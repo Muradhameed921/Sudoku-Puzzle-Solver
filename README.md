@@ -41,5 +41,5 @@ A graphical user interface (GUI) built with **Tkinter** allows users to interact
 
 ## Screenshots
 ```markdown
-![Sudoku Solver Screenshot](path/to/image.png)
+![Sudoku Solver Screenshot](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg)
 ```
