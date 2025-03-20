@@ -23,7 +23,7 @@ A graphical user interface (GUI) built with **Tkinter** allows users to interact
    ```
 2. Run the application:
    ```bash
-   python main.py
+   python main.ipynb
    ```
 
 ## Usage
