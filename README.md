@@ -40,6 +40,4 @@ A graphical user interface (GUI) built with **Tkinter** allows users to interact
 - **Backtracking Algorithm**
 
 ## Screenshots
-```markdown
-![Sudoku Solver Screenshot](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg?raw=true)
-```
+![Sudoku Solver Screenshot](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg)
